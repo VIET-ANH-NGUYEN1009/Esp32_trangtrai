@@ -35,6 +35,19 @@ Hệ thống gồm 3 thành phần chính:
 
 ---
 
+## 📊 Demo Tính năng
+
+- Giám sát dữ liệu cảm biến theo thời gian thực
+- Biểu đồ trực quan (nhiệt độ, độ ẩm, ánh sáng, đất, nước)
+- Điều khiển thiết bị từ xa (bơm, quạt, đèn…)
+- Cảnh báo khi vượt ngưỡng an toàn
+- Quản lý người dùng & phân quyền
+
+### 🖼️ Giao diện minh họa
+
+![Giao diện dashboard](assets/images/dashboard.png)
+
+
 ## ⚙️ Cài đặt & Chạy thử
 
 ### 1. ESP32
@@ -45,12 +58,4 @@ git clone https://github.com/VIET-ANH-NGUYEN1009/Esp32_trangtrai.git
 
 **## 📊 Demo Tính năng
 
-- Giám sát dữ liệu cảm biến theo thời gian thực
-- Biểu đồ trực quan (nhiệt độ, độ ẩm, ánh sáng, đất, nước)
-- Điều khiển thiết bị từ xa (bơm, quạt, đèn…)
-- Cảnh báo khi vượt ngưỡng an toàn
-- Quản lý người dùng & phân quyền
 
-### 🖼️ Giao diện minh họa
-
-![Giao diện dashboard](<img width="542" height="616" alt="image" src="https://github.com/user-attachments/assets/56673820-a875-4905-a3ed-30dcadaaa961" />)
