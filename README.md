@@ -45,7 +45,7 @@ Hệ thống gồm 3 thành phần chính:
 
 ### 🖼️ Giao diện minh họa
 
-![Giao diện dashboard](assets/images/dashboard.png)
+![Giao diện dashboard](assets/demo.png)
 
 
 ## ⚙️ Cài đặt & Chạy thử
